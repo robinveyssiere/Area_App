@@ -1,0 +1,4 @@
+#Sun Mar 01 22:27:43 CET 2020
+base.0=/home/vrobin/delivery3/DEV_area_2019/Area_App/android/app/build/intermediates/dex/release/mergeDexRelease/out/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

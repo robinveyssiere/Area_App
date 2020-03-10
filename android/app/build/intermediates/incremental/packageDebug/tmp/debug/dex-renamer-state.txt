@@ -1,0 +1,7 @@
+#Sun Mar 01 23:15:37 CET 2020
+base.0=/home/vrobin/delivery3/LearningDocker/Area_App/android/app/build/intermediates/dex/debug/mergeDexDebug/out/classes.dex
+path.1=classes.dex
+renamed.1=classes2.dex
+path.0=classes.dex
+renamed.0=classes.dex
+base.1=/home/vrobin/delivery3/DEV_area_2019/Area_App/android/app/build/intermediates/dex/debug/mergeDexDebug/out/classes.dex
